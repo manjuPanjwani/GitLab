@@ -10,7 +10,6 @@
 
 cd /data/feedback
 ls
-Copied!
 cat 007.txt
 #They're all written in the same format (i.e. title, name, date, and feedback).
 cd ~
