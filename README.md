@@ -18,11 +18,11 @@ Following Module Exercises are included in this folder:
       - Process Text Files using Python Dictionaries.py
       - run.py
 - Capstone Project IT Automation
-      - run.py
-      - reports.py
-      - supplier_image_upload.py
-      - changeimage.py
-      - report_email.py
-      - health_check.py
-      - emails.py
+  - run.py
+  - reports.py
+  - supplier_image_upload.py
+  - changeimage.py
+  - report_email.py
+  - health_check.py
+  - emails.py
   
